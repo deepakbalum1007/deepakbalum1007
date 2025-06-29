@@ -1,7 +1,7 @@
 ### 👋 Hi there! I'm Deepak Balu
 
-🎓 Second-Year Engineering Student | AI & Machine Learning Enthusiast  
-🚀 Actively building projects in Python, Web, and Automation  
+🎓 Second-Year Engineering Student | AI & Electronics Enthusiast
+🚀 Actively building projects in Python, Web, and Automation and Working On various Electronics Project
 🔍 Currently exploring Data Science, GitHub, and Open Source
 
 ---
