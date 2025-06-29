@@ -1,16 +1,21 @@
-## Hi there 👋
+### 👋 Hi there! I'm Deepak Balu
 
-<!--
-**deepakbalum1007/deepakbalum1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-Year Engineering Student | AI & Machine Learning Enthusiast  
+🚀 Actively building projects in Python, Web, and Automation  
+🔍 Currently exploring Data Science, GitHub, and Open Source
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Project: Consumer Segmentation using K-Means
+
+🧠 **Project**: Grouping customers using unsupervised learning  
+📈 **Tech**: Python, Pandas, Matplotlib, Scikit-learn  
+
+---
+
+### 🧠 Currently Learning:
+- Data Science & Machine Learning
+- Git, GitHub, and Collaboration
+- Web Development (HTML, CSS, JS)
+
+📫 Connect with me on www.linkedin.com/in/deepak-balu-m-8247a2209
